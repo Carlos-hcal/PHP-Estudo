@@ -1,6 +1,6 @@
 <?php
 
-    /* Calculo IMC (índice de Massa Corpórea): */
+    // Calculo IMC (índice de Massa Corpórea):
 
         $peso = 50;
         $altura = 1.58;

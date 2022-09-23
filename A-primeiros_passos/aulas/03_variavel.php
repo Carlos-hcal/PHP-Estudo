@@ -9,7 +9,8 @@
 
     As variaveis são representadas por um "$" (cifrão).
     
-    Para aderir um valor a variavel utilizamos o "=" (igual) e depois o valor.*/
+    Para aderir um valor a variavel utilizamos o "=" (igual) e depois o valor.
+  */
 
       $idade = 21;
 

@@ -7,7 +7,8 @@
     de repetição "for" temos uma outra variavel definida como "$i" que também possui
     outro fator.
 
-    A ordem dos fatores não alteram o produto.  */
+    A ordem dos fatores não alteram o produto.  
+  */
 
       $multiplicador = 68;
 

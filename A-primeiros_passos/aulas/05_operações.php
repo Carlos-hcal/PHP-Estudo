@@ -1,6 +1,6 @@
 <?php
 
-    /* Operações matematicas: */
+    // Operações matematicas: 
 
         $a = 1;
         $b = 2;

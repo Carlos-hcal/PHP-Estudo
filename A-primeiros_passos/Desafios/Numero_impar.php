@@ -10,7 +10,8 @@
         Então dentro desse looping eu verifico com "if", ou seja, se dividindo o contador por 2
         o resto que for diferente de 0 vai ser exibido nesse mesmo contador em numeros impares,
         se a divisão por 0 for igual a 2 ele não fara nada, agora se a divisão por 2 for 
-        diferente de 0 então sera exibido no contador no numero atual da divisão. */
+        diferente de 0 então sera exibido no contador no numero atual da divisão. 
+    */
 
             for ($contador = 1; $contador <100; $contador++) {
                 if ($contador % 2 != 0) {
